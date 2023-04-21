@@ -1,1 +1,1 @@
-# eletric-game
+# 小論文
